@@ -20,6 +20,8 @@ the script that sets the permission to the file 'hello' as follows
 the script sets the mode of the file hello
 10-mirror_permissions
 the script sets the mode of the file hello the same as olleh's mode. the file hello and olleh  will be in the working directory
+11-directories_permissions
+the script adds execute permission to all subdirectories of the current directory for the owner, the group ownder and all other users. 
  
 
 
