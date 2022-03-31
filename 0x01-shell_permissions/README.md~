@@ -17,10 +17,7 @@ the script adds execution permission to the owner, the group owner and the other
 8-James_Bond
 the script that sets the permission to the file 'hello' as follows
 9-John_Doe
-the script sets the mode of the file hello
-10-mirror_permissions
-the script sets the mode of the file hello the same as olleh's mode. the file hello and olleh  will be in the working directory
- 
+the script sets the mode of the file hello 
 
 
 
