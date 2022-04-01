@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 mv [A-Z]* /tmp/u
-=======
-/tmp/u/[[:upper:]]*
->>>>>>> 0ea9b6b8af6875a1aeeada1a30ce1db31b965875
