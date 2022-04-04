@@ -28,3 +28,5 @@ creates a script that displays 10 newest files in the current directory
 creates a script that takes a list of words as input and prints only words that appear exactl once. 
 14-findthatword
 display lines containing the pattern from a file
+15-countthatword
+displays the number of lines that contain the pattern "bin" in the file
