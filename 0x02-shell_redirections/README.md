@@ -20,3 +20,5 @@ writes a script that writes into a file
 writes the script that duplicates the last line of a file
 10-no_more_js
 weites the script that deletes all the regular file with an extention that ate present in the current directory
+11-directories
+writes the script that counts the number of directories and sub-directories in the current directory 
