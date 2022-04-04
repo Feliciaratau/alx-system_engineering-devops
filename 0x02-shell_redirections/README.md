@@ -25,4 +25,6 @@ writes the script that counts the number of directories and sub-directories in t
 12-newest_files
 creates a script that displays 10 newest files in the current directory
 13-unique
-creates a script that takes a list of words as input and prints only words that appear exactly once. 
+creates a script that takes a list of words as input and prints only words that appear exactl once. 
+14-findthatword
+display lines containing the pattern from a file
