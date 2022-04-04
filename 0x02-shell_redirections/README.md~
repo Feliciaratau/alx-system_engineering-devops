@@ -6,3 +6,5 @@ writes a script that displays a confused smiley
 displays the content of the file
 3-twofiles
 displays the content of file 1 and file 2 
+4-lastlines
+displays the last 10 lines of a file

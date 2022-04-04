@@ -8,3 +8,5 @@ displays the content of the file
 displays the content of file 1 and file 2 
 4-lastlines
 displays the last 10 lines of a file
+5-firstlines
+displays the first 10 lines of a file
