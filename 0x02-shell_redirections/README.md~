@@ -36,3 +36,5 @@ displays the lines containing the pattern "root" and 3 lines after them in the f
 displays all the lines in the file that do not contain the patterns "bin"
 18-letteronly
 displays all lines of the file starting with a letter
+19-AZ
+replaces all characters A and c from input Zand e respectively

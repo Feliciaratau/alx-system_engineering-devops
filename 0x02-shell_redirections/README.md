@@ -38,3 +38,9 @@ displays all the lines in the file that do not contain the patterns "bin"
 displays all lines of the file starting with a letter
 19-AZ
 replaces all characters A and c from input Zand e respectively
+20-hiago
+creates a script that remove all letters c and C from input
+21-reverse
+writes a script that reverses its input
+ 22-users_and_homes
+writes a script that displays all users and their home directories , sorted by users
