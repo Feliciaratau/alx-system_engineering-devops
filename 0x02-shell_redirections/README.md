@@ -34,3 +34,5 @@ displays the number of lines that contain the pattern "bin" in the file
 displays the lines containing the pattern "root" and 3 lines after them in the file
 17-hidethisword
 displays all the lines in the file that do not contain the patterns "bin"
+18-letteronly
+displays all lines of the file starting with a letter

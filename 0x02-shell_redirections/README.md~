@@ -32,3 +32,5 @@ display lines containing the pattern from a file
 displays the number of lines that contain the pattern "bin" in the file
 16-whatsnext
 displays the lines containing the pattern "root" and 3 lines after them in the file
+17-hidethisword
+displays all the lines in the file that do not contain the patterns "bin"
