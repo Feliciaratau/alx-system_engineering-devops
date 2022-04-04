@@ -14,3 +14,7 @@ displays the first 10 lines of a file
 writes a script that displays the third line of the file in the working directory
 7-file
 writes the shell script that creates a file containing a text by ending by a new line
+8-cwd_state
+writes a script that writes into a file 
+9-duplicate_last_line
+writes the script that duplicates the last line of a file

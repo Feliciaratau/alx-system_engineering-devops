@@ -18,3 +18,5 @@ writes the shell script that creates a file containing a text by ending by a new
 writes a script that writes into a file 
 9-duplicate_last_line
 writes the script that duplicates the last line of a file
+10-no_more_js
+weites the script that deletes all the regular file with an extention that ate present in the current directory
