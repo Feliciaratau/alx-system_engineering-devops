@@ -30,3 +30,5 @@ creates a script that takes a list of words as input and prints only words that 
 display lines containing the pattern from a file
 15-countthatword
 displays the number of lines that contain the pattern "bin" in the file
+16-whatsnext
+displays the lines containing the pattern "root" and 3 lines after them in the file
