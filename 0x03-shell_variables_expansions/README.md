@@ -10,3 +10,5 @@ creates a script that counts the number of directories in the PATH
 creates a script that lists environment variables
 5-local_variables
 creates a scriot that lists all local variables and environment variables and functions
+6-create_local_variable
+creates a script that creates a new local variable
