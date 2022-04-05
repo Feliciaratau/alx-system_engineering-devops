@@ -2,3 +2,5 @@
 creates a script that creates an alias
 1-hello_you
 creates a script that prints 'hello user' where user is the current Linux user
+2-path
+The scripts adds '/action' to the 'PATH'
