@@ -12,3 +12,5 @@ creates a script that lists environment variables
 creates a scriot that lists all local variables and environment variables and functions
 6-create_local_variable
 creates a script that creates a new local variable
+7-create_global_variable
+Creates a script that creates a new global variable
